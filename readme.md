@@ -43,6 +43,13 @@ weather-app
 
 ---
 
+## Live Demo
+
+Live project:
+https://anupam311.github.io/Weather_API
+
+---
+
 ## How to Run the Project
 
 1. Download or clone the repository.
